@@ -1,14 +1,6 @@
 [ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
     display: none !important;
 }
-.text-left.catLogo {
-    font-family: fantasy;
-    text-transform: uppercase;
-    text-rendering: optimizeSpeed;
-    text-shadow: 3px 3px #E4E3E3;
-}
-
-/* Main Banners */
 
 ._innerBox {
     display: block;
@@ -21,7 +13,7 @@
 }
 
 ._innerBox:nth-child(odd) {
-    background: blue;
+    background: #c0c0c0;
 }
 
 ._innerDesc {
