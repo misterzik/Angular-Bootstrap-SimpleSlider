@@ -1,0 +1,23 @@
+{
+  "name": "Sentinent Test",
+  "description": "Boilerplate",
+  "main": [
+    "index.html"
+  ],
+  "authors": [
+    "nickjrod@gmail.com"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Front-end boilerplate",
+    "Javascript boilerplate"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
