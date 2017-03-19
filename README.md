@@ -1,6 +1,6 @@
-# AngularJS + Health Api BoilerPlate
+# AngularJS + Health Api + CSS Basic BoilerPlate
 
-Lightweight boilerplate with a taste of AngularJS 1.X, Javascript, HTML5, and CSS3.
+Lightweight api connectivity to showcase the usage of HTTP connection and for-loop, to minify code of carousel...
 
 ### Preview
 Index Page
@@ -8,7 +8,3 @@ Index Page
 
 About Us Page
 ![Alt text](ss-about.png?raw=true "About Us View")
-
-
-### Be Sentient
-Sample Site
